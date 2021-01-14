@@ -27,4 +27,6 @@
   - OpenGL
   
  # Note
-  This project is currently in progress. This repository is updating in real-time.
+  - This project is currently in progress. This repository is updating in real-time.
+  - Using Code::Blocks IDE
+  - You can use Code:Blocks to open the project.
