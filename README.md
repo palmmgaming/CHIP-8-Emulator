@@ -8,7 +8,7 @@
  - To understand how emulator/interpreter works.
  - To applied the knowledges that I've learned in the university.
 
-# CHIP8 Emulator
+# CHIP-8 Emulator
  CHIP-8 was created by RCA engineer Joe Weisbecker in 1977 for the COSMAC VIP microcomputer. It was intended as a simpler way to make small programs and games for the computer.
  CHIP-8 programs are run on a CHIP-8 virtual machine. It was made to allow video games to be more easily programmed for these computers.
  
