@@ -1,7 +1,7 @@
 # Introduction
  My name is Phuriphan Prathipasen - Computer Engineering Student at Sirindhorn International Institute of Technology (SIIT), Thammasat University (2nd year)
  
- I am interested in low-level programming and want to applied the computer architecture knowledges that I have learned in the university. That is the reason I chose to make CHIP-8 emulator/interpreter.
+ I am interested in low-level architecture and want to apply the knowledge that I have learned in the university and by self-learning. That is the reason I chose to make a CHIP-8 emulator/interpreter.
  
  # Objective
  - To enhance my own skills in computer related field.
